@@ -1,0 +1,68 @@
+/* nav{
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Lucida Sans';
+
+}
+
+.c0ntainer{
+    height: 50px;
+    width: 50px;
+}
+.hero-page{
+    font-size: 1rem;
+} */
+
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text-reset{
+    text-decoration: none;
+}
+.top-heading {
+    background-color: #4353ff;
+}
+.top-heading p{
+    font-size: 16.5px;
+}
+
+.top-heading:hover {
+    background-color: #3545ee;
+}
+
+.main-header{
+    background-color:black ;
+    color: white;
+}
+.main-header .content {
+    margin-top: 6.55rem;
+    margin-bottom: 6.5rem;
+}
+.main-header .content .content-heading {
+    font-size: 6.5rem;
+    line-height: 1;
+    font-weight: bold;
+}
+.main-header .content .content-message{
+    font-size: 1.4rem;
+    line-height: 1.4;
+}
+
+
+.bg-primary{
+    background-color: #4353ff !important;
+}
+.btn{
+    font-size: 14px;
+    color: black;
+    padding: 1rem 2rem;
+    font-weight: 500;
+    border-radius: 0;
+    border: 0;
+}
+.btn:hover{
+    color: black;
+}
+
