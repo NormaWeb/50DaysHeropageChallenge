@@ -1,0 +1,53 @@
+.bg-blue {
+    background-color: #404eed;
+}
+
+.btn {
+    border-radius: 50px;
+}
+.container{
+    margin-top: 10px;
+    max-width: 1200px;
+}
+
+.hero h1 {
+    font-size: 65px;
+    font-weight: 850;
+    line-height: 90%;
+    vertical-align: baseline;
+    margin-bottom: 50px;
+}
+.hero p{
+    font-size: 19px;
+    line-height: 30px;
+    margin-bottom: 30px;
+
+}
+.nav-item{
+    font-weight: 500;
+}
+
+.hero {
+    min-height: 550px;
+    background-color: #404eed;
+    background-image: url(../images/discor-centre.svg)
+}
+
+.hero .img-left {
+    margin-left: -26%;
+}
+
+.hero .img-right {
+    margin-right: -23%;
+}
+
+.hero .btn {
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+}
