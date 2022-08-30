@@ -1,0 +1,61 @@
+body {
+    background-color:#ebdeed;
+}
+
+@media (min-width: 1200px) {
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl {
+        max-width: 1120px;
+    }
+}
+
+.dropdown {
+    height: 30px;
+    width: 30px;
+}
+
+.btn {
+    background-color: #fa4a84;
+    border-radius: 10px;
+}
+
+.images {
+    /* height: 500px;
+    width: 600px; */
+    border-radius: 20px;
+}
+
+.hero {
+    margin-top: 50px;
+}
+
+.head-one {
+    font-weight: 700;
+    font-size: 60px;
+    margin-bottom: 50px;
+    color: #04093f;
+    font-family: sans-serif;
+}
+
+.icon {
+    height: 100px;
+    width: 100px;
+}
+
+p {
+    color: #04093f;
+    font-family: sans-serif;
+}
+
+.img {
+    height: 30px;
+    /* width: 30px; */
+}
+
+.foot {
+    margin-top: 50px;
+    font-size: 13px;
+}
