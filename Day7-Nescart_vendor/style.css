@@ -1,0 +1,19 @@
+.text-accent{
+    color: #ef9244;
+} 
+
+h1 h2 h3 {
+    font-family: serif;
+    font-weight: 700;
+    font-size: 3.5rem;
+    line-height: 1;
+}
+
+a{
+    font-weight: 700;
+    color: black;
+    font-size: 15px;
+}
+.gy-5 {
+    display: flex;
+}
