@@ -1,0 +1,57 @@
+
+.dropdown {
+    height: 30px;
+    width: 30px;
+}
+
+.sec-green{
+   background-color:#004346;
+   font-family: sans-serif;
+}
+
+.bg-img{
+    background-image: url(../images/220419-au-homepage-hero-desktopv8.png)
+
+}
+.phone{
+    height: 20px;
+    width: 20px;
+}
+a{
+    font-weight: 600;
+}
+.hero{
+    margin-top:180px;
+    margin-left: 120px;
+    font-size: 42px;
+    font-weight: 700;
+    
+}
+.hero-p{
+    margin-left: 120px;
+    font-size: 17px;
+}
+.hero-ps{
+    line-height: 10px;
+    margin-left: 145px;
+}
+.btd{
+    margin-left: 120px; 
+    height: 50px;
+}
+.btn-lg{
+    height: 70px;
+    width: 150px;
+    
+}
+.img{
+    margin-top: 180px;
+
+}
+.navbar-btn{
+    padding: .7rem 1.5rem !important;
+    font-size: 17px;
+}
+.btn-outline-success{
+    border-color: gray;
+}
