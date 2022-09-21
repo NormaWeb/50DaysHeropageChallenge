@@ -1,0 +1,87 @@
+.hero-img {
+    height: 600px;
+    width: 600px;
+}
+
+.header {
+    margin-top: 130px;
+}
+
+.hero-text {
+    font-size: 50px;
+    font-weight: 800;
+    font-family: serif;
+
+}
+
+.lunch {
+    color: #f59544;
+}
+
+.eat {
+    color: #008e8c;
+}
+
+.bg-green {
+    background-color: #008e8c;
+}
+
+.sub-text {
+    font-size: 25px;
+}
+
+.btn-hero {
+    width: 200px;
+    height: 50px;
+}
+
+.text-green {
+    color: #008e8c;
+}
+
+.check {
+    height: 20px;
+    width: 20px;
+}
+
+.faq {
+    font-size: 25px;
+}
+
+.footer {
+    padding-top: 100px;
+}
+
+.f-box {
+    border-radius: 50px;
+    border: white;
+}
+
+.f-boxx {
+    border-radius: 50px;
+    border:white
+
+}
+.btn-sub{
+    width: 300px;
+    height: 50px;
+}
+
+
+.subscription-plan-item .card-body {
+    margin-top: 45px;
+    
+    
+    
+}
+
+.subscription-plan-item .card img {
+    height: 165px;
+    left: 20% !important;
+}
+.subscription-plan-item{
+    margin-top: 60px;
+}
+.card-b{
+    border-radius: 20px;
+}
