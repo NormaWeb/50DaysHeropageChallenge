@@ -1,0 +1,30 @@
+.header{
+    background-color: #81009e;   
+}
+.img-logo{
+    width: 150px;
+}
+.p{
+    font-size: 22px;
+}
+.img-hero{
+    width: 500px;
+}
+.btn-orange{
+    background-color: #ff8e09;
+    width: 130px;
+}
+.hero{
+    font-size: 43px;
+}
+.left-60{
+    width: 250px;
+    left: 64% !important;
+    top: 82% !important;
+}
+
+@media (min-width: 1200px) {
+    .container{
+        max-width: 1190px;
+    }
+}
