@@ -1,0 +1,52 @@
+.container{
+    max-width: 1223px;
+}
+.nav-link {
+    color: black;
+}
+.btn{
+    width: 100px;
+    border-radius: 0%;
+}
+.head-text{
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 1.3em;
+    color: #24273a;
+    font-size: 3rem;
+
+}
+.sub-head{
+    font-size: 18px;
+    line-height: 1.875em;
+    color: #272832;
+}
+.hero{
+    background-color: #f4f7f9;
+    padding-top: 90px;
+    
+       
+}
+
+#myTab button.active.green{
+    border-top: 2px solid green !important;
+}
+#myTab button.active.purple{
+    border-top: 2px solid purple !important;
+}
+.btn-g{
+    border-top: 2px solid green !important;
+}
+.btn-p{
+    border-top: 2px solid purple !important;
+}
+.btn-purple{
+    background-color: purple;
+}
+.btn-succes{
+    background-color: #20c76c !important;
+}
+.btn-pd{
+    padding-top: 2px;
+    padding-bottom: 6px;
+}
